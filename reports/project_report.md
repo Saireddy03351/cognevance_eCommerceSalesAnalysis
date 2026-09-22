@@ -2,6 +2,41 @@
 
 ## Internship Project Report
 
+**Internship Position:** Data Analysis with Python
+
+**Organization:** Cognevance Technologies
+
+**Project:** E-Commerce Sales Analysis, Customer Segmentation and Sales Forecasting Using Python
+
+**Submitted By:**  
+[BADDAM SAI]
+
+**Technologies:**  
+Python | Pandas | NumPy | Matplotlib | Scikit-learn | Git | GitHub
+
+**GitHub Repository:**  
+https://github.com/Saireddy03351/cognevance_eCommerceSalesAnalysis
+
+---
+
+## Project Highlights
+
+- 392,692 cleaned transaction records
+- £8,887,208.89 analyzed sales revenue
+- 18,532 unique orders
+- 4,338 unique customers
+- Product, country and customer sales analysis
+- RFM customer segmentation
+- Monthly sales trend analysis
+- Linear Regression baseline forecasting
+- Three-month future sales forecast
+
+---
+
+# E-COMMERCE SALES ANALYSIS & FORECASTING
+
+## Internship Project Report
+
 ### Project Title
 **E-Commerce Sales Analysis, Customer Segmentation and Sales Forecasting Using Python**
 
